@@ -1,10 +1,9 @@
 # klong-skill
 
-Skill review tài liệu giáo án AI/ML.
+Tổng hợp các Kiro skill tự tạo.
 
-## Nội dung
+## Danh sách skill
 
-| File | Mô tả |
-|------|-------|
-| [AI24-ML-M3.1-GA-2T-TD.md](AI24-ML-M3.1-GA-2T-TD.md) | Giáo án gốc — Học máy (Machine Learning), Module M2.1, 6 bài học |
-| [review-result.md](review-result.md) | Kết quả review — 13 vấn đề phát hiện qua review có hệ thống |
+| Skill | Mô tả |
+|-------|-------|
+| [review-document](skills/review-document/SKILL.md) | Chiến lược review tài liệu dài để phát hiện lỗi kiến thức chuyên môn một cách có hệ thống, hạn chế tối đa việc bỏ sót. |
